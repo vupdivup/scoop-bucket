@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vupdivup/typomat/releases/download/v0.1.0/typomat_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/vupdivup/typomat/releases/download/v0.1.1/typomat_0.1.1_windows_amd64.zip",
             "bin": [
                 "typomat.exe"
             ],
-            "hash": "3cdcec4591402921385247bb5319d70c43ecd83ac0790790bc14d03111711df9"
+            "hash": "5fdec3cb7b4813bf1321a31c48d26819690127d0c74d9329522df0d024abbc52"
         }
     },
     "homepage": "https://github.com/vupdivup/typomat",
