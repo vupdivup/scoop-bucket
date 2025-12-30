@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vupdivup/typomat/releases/download/v0.1.0/typomat_0.1.0_windows_amd64.zip",
+            "bin": [
+                "typomat.exe"
+            ],
+            "hash": "8f8a608cec2b2b0fd9658a3ab329ebe60f4482ee96b17e0b2ccd8beba1a7373b"
+        }
+    },
+    "homepage": "https://github.com/vupdivup/typomat",
+    "license": "MIT",
+    "description": "Turn your code into muscle memory"
+}
